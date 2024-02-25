@@ -1,0 +1,2 @@
+The condition becomes false when j is equal to or greater than the square root of n. 
+So the loop runs for n^1/2 times. So the time complexity is O(n^1/2).
