@@ -1,0 +1,3 @@
+In this code, the outer loop runs n times and the inner runs logn base 2 times.
+Hence, the total number of iterations is nlogn.
+Time complexity is O(nlogn).
