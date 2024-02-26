@@ -1,0 +1,3 @@
+The outer loop runs n times.
+The inner loop runs log(sqrt(n)) base 2 times.
+So the approxiamated time complexity will be O(nlogn)
