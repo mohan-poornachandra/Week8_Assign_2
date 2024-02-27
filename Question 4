@@ -1,0 +1,3 @@
+The outer loop runs the number of terms of the GP n , n/2 , n/4 ,.... 1 which is logn base 2.
+The total no. of iterations in inner loop is n + n/2 + ... 1. this approximately equals 2n.
+Therefore, the time complexity is O(n).
